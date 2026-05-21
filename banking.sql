@@ -131,3 +131,5 @@ select * from Cards
 ---total amount by status
 select SUM(amount),Status from Transactions
 group by Status
+
+-- new line added
